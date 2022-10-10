@@ -8,6 +8,8 @@ You are to create a single page dashboard that tells clear story  about child ab
  What are the top state with the highest parents?
  Where do we have the highest perpetrators?
  
+ Data source LinkedIn 
+ 
  # Methods
  Import Data to power bi
  Edit data in power bi
